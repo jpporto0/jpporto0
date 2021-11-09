@@ -5,7 +5,7 @@
 - Opa eu sou o João, eu desenvolvo algumas coisas aleatórias e jogo uns games bem viciantes. Atualmente estou estudando outras linguagens de programação.
   - Website: <strong><a href="https://dicsty.tk">dicsty.tk</a></strong> 🔗
   - Hosting: <strong><a href="https://synchosting.com.br">synchosting.com.br</a></strong> 🌵
-  - Dicsty: <strong><a href="https://discord.gg/wfrXFGj46z">discord.gg/wfrXFGj46z</a></strong> 🍒
+  - Dicsty: <strong><a href="https://discord.gg/wfrXFGj46z">Support!</a></strong> 🍒<br> <strong><a href="https://discord.com/api/oauth2/authorize?client_id=757703647772540953&permissions=8&scope=bot">Add here!</a></strong> 📬<br> <strong><a href="https://top.gg/bot/757703647772540953">Vote!</a></strong> 🌏
 
 <div align="center">
     <h2>🔧 › Skills:</h2>
