@@ -1,21 +1,20 @@
-<img align="right" src="https://cdn.discordapp.com/attachments/885521698265399326/907630910852182077/24.png" max-width="280px" width="280px" align="right">
 
 # 👋 › Hello.
 
 - Opa eu sou o João, eu desenvolvo algumas coisas aleatórias e jogo uns games bem viciantes. Atualmente estou estudando outras linguagens de programação.
-  - Website: <strong><a href="https://dicsty.tk">dicsty.tk</a></strong> 🔗
-  - Hosting: <strong><a href="https://synchosting.com.br">synchosting.com.br</a></strong> 🌵
-  - Dicsty: <strong><a href="https://discord.gg/wfrXFGj46z">Support!</a></strong> 🍒<br> <strong><a href="https://discord.com/api/oauth2/authorize?client_id=757703647772540953&permissions=8&scope=bot">Add here!</a></strong> 📬<br> <strong><a href="https://top.gg/bot/757703647772540953">Vote!</a></strong> 🌏
+  - Website: <strong><a href="https://undefined.com">undefined.com</a></strong> 🔗
+  - Hosting: <strong><a href="https://undefined.com">undefined.com</a></strong> 🌵
+  - Dicsty: <strong><a href="https://undefined.com">Support!</a></strong> 🍒<br> <strong><a href="https://discord.com/api/oauth2/authorize?client_id=757703647772540953&permissions=8&scope=bot">Add here!</a></strong> 📬<br> <strong><a href="https://top.gg/bot/757703647772540953">Vote!</a></strong> 🌏
 
 <div align="center">
     <h2>🔧 › Skills:</h2>
     <p align="center">
         <img alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
         <img alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-        <img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+        <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
         <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40"/>
         <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-        <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40"/>
+        <img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
     </p>
 </div>
 
